@@ -1,0 +1,1 @@
+-autoinit -servermod=@extDB3;@life_server -config=server.cfg -bepath=E:\A3Master\battleye -profiles=E:\A3Master
